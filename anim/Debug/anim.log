@@ -1,0 +1,9 @@
+﻿  ParticleSystem.cpp
+  ParticleSimulator.cpp
+  Emitter.cpp
+  Generating Code...
+c:\users\yixiao yang\documents\4491 assignment\massspring\computeranimationtemplate\anim\emitter.cpp(114): warning C4715: 'Emitter::AddForce': not all control paths return a value
+  Skipping... (no relevant changes detected)
+  myScene.cpp
+  anim.vcxproj -> C:\Users\Yixiao Yang\Documents\4491 Assignment\MassSpring\ComputerAnimationTemplate\anim\../Build\anim.exe
+  anim.vcxproj -> ../Build\animp.pdb (Full PDB)
